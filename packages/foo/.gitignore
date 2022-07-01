@@ -1,1 +1,5 @@
+# would expect to exclude directory from turborepo, as with git:
 /coverage
+
+# workaround when uncommented (does exclude directory but is a wider match):
+# coverage
